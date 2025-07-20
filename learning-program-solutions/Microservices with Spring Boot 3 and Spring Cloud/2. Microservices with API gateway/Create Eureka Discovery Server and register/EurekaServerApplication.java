@@ -19,3 +19,13 @@ spring.application.name=account-service
 server.port=8081
 eureka.client.service-url.defaultZone=http://localhost:8761/eureka/
 
+// application.properties for loan-service
+
+spring.application.name=loan-service
+server.port=8082
+eureka.client.service-url.defaultZone=http://localhost:8761/eureka/
+
+
+//
+
+
